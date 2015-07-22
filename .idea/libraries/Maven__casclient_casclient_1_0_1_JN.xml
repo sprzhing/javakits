@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: casclient:casclient:1.0.1-JN">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/casclient/casclient/1.0.1-JN/casclient-1.0.1-JN.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/casclient/casclient/1.0.1-JN/casclient-1.0.1-JN-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/casclient/casclient/1.0.1-JN/casclient-1.0.1-JN-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

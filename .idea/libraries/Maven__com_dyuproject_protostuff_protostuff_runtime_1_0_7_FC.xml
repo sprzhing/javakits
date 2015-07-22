@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dyuproject.protostuff:protostuff-runtime:1.0.7-FC">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-runtime/1.0.7-FC/protostuff-runtime-1.0.7-FC.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-runtime/1.0.7-FC/protostuff-runtime-1.0.7-FC-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dyuproject/protostuff/protostuff-runtime/1.0.7-FC/protostuff-runtime-1.0.7-FC-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

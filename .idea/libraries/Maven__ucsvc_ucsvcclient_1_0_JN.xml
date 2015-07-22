@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ucsvc:ucsvcclient:1.0-JN">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ucsvc/ucsvcclient/1.0-JN/ucsvcclient-1.0-JN.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ucsvc/ucsvcclient/1.0-JN/ucsvcclient-1.0-JN-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ucsvc/ucsvcclient/1.0-JN/ucsvcclient-1.0-JN-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

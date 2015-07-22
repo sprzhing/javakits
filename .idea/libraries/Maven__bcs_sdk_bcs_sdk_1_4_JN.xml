@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: bcs-sdk:bcs-sdk:1.4-JN">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/bcs-sdk/bcs-sdk/1.4-JN/bcs-sdk-1.4-JN.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/bcs-sdk/bcs-sdk/1.4-JN/bcs-sdk-1.4-JN-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/bcs-sdk/bcs-sdk/1.4-JN/bcs-sdk-1.4-JN-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

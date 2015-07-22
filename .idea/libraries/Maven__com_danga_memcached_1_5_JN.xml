@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.danga:memcached:1.5-JN">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/danga/memcached/1.5-JN/memcached-1.5-JN.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/danga/memcached/1.5-JN/memcached-1.5-JN-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/danga/memcached/1.5-JN/memcached-1.5-JN-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

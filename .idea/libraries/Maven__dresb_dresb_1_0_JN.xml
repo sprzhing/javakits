@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: dresb:dresb:1.0-JN">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/dresb/dresb/1.0-JN/dresb-1.0-JN.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/dresb/dresb/1.0-JN/dresb-1.0-JN-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/dresb/dresb/1.0-JN/dresb-1.0-JN-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
