@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.002" errors="0" skipped="0" tests="1" name="com.baidu.laozhu.refactor.StateResultTest">
+<testsuite failures="0" time="0" errors="0" skipped="0" tests="1" name="com.baidu.laozhu.refactor.StateResultTest">
   <properties>
-    <property name="idea.version" value="14.1.4"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="24.75-b04"/>
@@ -26,25 +25,24 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA 14.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="classworlds.conf" value="/Users/zhuhongquan/Applications/apache-maven-3.2.5/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/zhuhongquan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.10.4"/>
-    <property name="http.nonProxyHosts" value="127.0.0.1|weibo.com|*.weibo.com|weibo.com|*.weibo.com|adobe.com|*.adobe.com|adobe.com|*.adobe.com|www.baidu.com|*.www.baidu.com|youku.com|*.youku.com|youku.com|*.youku.com|baidu.com|*.baidu.com|baidu.com|*.baidu.com"/>
+    <property name="os.version" value="10.10.5"/>
     <property name="user.home" value="/Users/zhuhongquan"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
-    <property name="java.specification.version" value="1.7"/>
     <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
     <property name="user.name" value="zhuhongquan"/>
-    <property name="java.class.path" value="/Applications/IntelliJ IDEA 14.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.4.jar"/>
+    <property name="java.class.path" value="/Users/zhuhongquan/Applications/apache-maven-3.2.5/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=14.1.4 --update-snapshots clean package -P Baidu"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="zh"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -53,14 +51,12 @@
     <property name="java.ext.dirs" value="/Users/zhuhongquan/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home/jre/classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="/Applications/IntelliJ IDEA 14.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="maven.home" value="/Users/zhuhongquan/Applications/apache-maven-3.2.5"/>
     <property name="file.separator" value="/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
-    <property name="socksNonProxyHosts" value="127.0.0.1|weibo.com|*.weibo.com|weibo.com|*.weibo.com|adobe.com|*.adobe.com|adobe.com|*.adobe.com|www.baidu.com|*.www.baidu.com|youku.com|*.youku.com|youku.com|*.youku.com|baidu.com|*.baidu.com|baidu.com|*.baidu.com"/>
-    <property name="ftp.nonProxyHosts" value="127.0.0.1|weibo.com|*.weibo.com|weibo.com|*.weibo.com|adobe.com|*.adobe.com|adobe.com|*.adobe.com|www.baidu.com|*.www.baidu.com|youku.com|*.youku.com|youku.com|*.youku.com|baidu.com|*.baidu.com|baidu.com|*.baidu.com"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.001" classname="com.baidu.laozhu.refactor.StateResultTest" name="testStatement"/>
+  <testcase time="0" classname="com.baidu.laozhu.refactor.StateResultTest" name="testStatement"/>
 </testsuite>

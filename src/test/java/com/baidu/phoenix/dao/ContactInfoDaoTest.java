@@ -26,6 +26,8 @@ public class ContactInfoDaoTest {
 		info.setContactName("junit");
 		info.setContactMail("2222222@qq.com");
 		info.setContactPhone("18916970189");
+		System.out.println("laozhu");
 		dao.insert(info);
+		System.out.println("laozhu");
 	}
 }

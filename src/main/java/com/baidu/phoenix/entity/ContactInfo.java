@@ -73,4 +73,15 @@ public class ContactInfo implements Serializable {
 		this.contactMail = contactMail;
 	}
 
+	@Override
+	public String toString(){
+		return "ContactInfo{" +
+				"aderId=" + aderId +
+				", contactName='" + contactName + '\'' +
+				", contactPhone='" + contactPhone + '\'' +
+				", contactMail='" + contactMail + '\'' +
+				", id=" + id +
+				", version=" + version +
+				'}';
+	}
 }
