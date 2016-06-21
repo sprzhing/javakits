@@ -12,7 +12,7 @@
     </welcome-file-list>
  	 <context-param>
     <param-name>contextConfigLocation </param-name>
-    <param-value>classpath*:applicationContext.summer.xml </param-value>
+    <param-value>classpath*:applicationContext*.xml </param-value>
      </context-param>
 	  <!-- Spring 在web中启动的入口,会加载其它的xml -->
 	  <listener>  

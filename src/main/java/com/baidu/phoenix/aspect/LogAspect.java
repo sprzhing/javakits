@@ -17,13 +17,15 @@ import com.baidu.phoenix.entity.ContactInfo;
  * Created by zhuhongquan on 15/9/16.
  */
 @Service
-@Aspect
+@Aspect // 切面
 public class LogAspect {
-    @Pointcut("execution(* com.baidu.phoenix.dao.ContactInfoDaoImpl.insert(com.baidu.phoenix.entity.ContactInfo)) && args(content)")
+    // 切点
+    @Pointcut(value = "execution(* com.baidu.phoenix.dao.ContactInfoDaoImpl.insert(com.baidu.phoenix.entity.ContactInfo)) && "
+            + "args(content)")
     public void insertion(ContactInfo content) {
 
     }
-
+    // advise通知
     @Before("insertion(content)")
     public void printTips(ContactInfo content) {
         System.out.println("Asp: begin to insert:" + content.toString());

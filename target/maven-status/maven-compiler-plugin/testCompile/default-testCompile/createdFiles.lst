@@ -1,3 +1,5 @@
-com/baidu/phoenix/dao/ContactInfoDaoTest.class
 com/baidu/laozhu/refactor/StateResultTest.class
 com/baidu/laozhu/refactor/FinalStateResultTest.class
+com/baidu/phoenix/rpc/RpcTest.class
+com/baidu/phoenix/dao/ContactInfoDaoTest.class
+com/baidu/phoenix/aop/WaterMarkTest.class

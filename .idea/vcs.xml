@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../asf/trunk/asf" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../galaxy/galaxy-base" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../galaxy/galaxy-brandstart" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../galaxy/galaxy-parent" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../galaxy/galaxy-platform" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../galaxy/galaxy-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/houfeng" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/nmp-base" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/nmp-client" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/nmp-mq" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/nmp-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

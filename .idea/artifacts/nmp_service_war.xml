@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nmp-service:war">
+    <output-path>$PROJECT_DIR$/../nmplt/trunk/nmp-service/target</output-path>
+    <root id="archive" name="nmp-service.war">
+      <element id="artifact" artifact-name="nmp-service:war exploded" />
+    </root>
+  </artifact>
+</component>

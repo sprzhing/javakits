@@ -24,8 +24,145 @@
         <processorPath useClasspath="true" />
         <module name="summer" />
       </profile>
+      <profile default="false" name="Annotation profile for galaxy-base" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="galaxy-base" />
+      </profile>
+      <profile default="false" name="Annotation profile for galaxy-brandstart" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="galaxy-brandstart" />
+      </profile>
+      <profile default="false" name="Annotation profile for galaxy-platform" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="galaxy-platform" />
+      </profile>
+      <profile default="false" name="Annotation profile for galaxy-web" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="galaxy-web" />
+      </profile>
+      <profile default="false" name="Annotation profile for coeus-platform" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for coeus-cpc" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Annotation profile for nutz" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nutz" />
+      </profile>
+      <profile default="false" name="Annotation profile for asf" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="asf" />
+      </profile>
+      <profile default="false" name="Annotation profile for nmp-base" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nmp-base" />
+      </profile>
+      <profile default="false" name="Annotation profile for nmp-mq" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nmp-mq" />
+      </profile>
+      <profile default="false" name="Annotation profile for nmp-client" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nmp-client" />
+      </profile>
+      <profile default="false" name="Annotation profile for nmp-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nmp-service" />
+      </profile>
+      <profile default="false" name="Annotation profile for nmp-service-interfaces" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="nmp-service-interfaces" />
+      </profile>
+      <profile default="false" name="Annotation profile for houfeng-client" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="houfeng-client" />
+      </profile>
+      <profile default="false" name="Annotation profile for houfeng-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="houfeng-server" />
+      </profile>
+      <profile default="false" name="Annotation profile for houfeng-tools" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="houfeng-tools" />
+      </profile>
+      <profile default="false" name="Annotation profile for houfeng-base" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="houfeng-base" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="asf" target="1.6" />
+      <module name="coeus-cpc" target="1.6" />
+      <module name="coeus-parent" target="1.5" />
+      <module name="coeus-platform" target="1.6" />
+      <module name="galaxy-base" target="1.6" />
+      <module name="galaxy-brandstart" target="1.6" />
+      <module name="galaxy-parent" target="1.5" />
+      <module name="galaxy-platform" target="1.6" />
+      <module name="galaxy-web" target="1.6" />
+      <module name="houfeng-base" target="1.8" />
+      <module name="houfeng-client" target="1.6" />
+      <module name="houfeng-parent" target="1.5" />
+      <module name="houfeng-server" target="1.8" />
+      <module name="houfeng-tools" target="1.8" />
+      <module name="nmp-base" target="1.6" />
+      <module name="nmp-client" target="1.6" />
+      <module name="nmp-mq" target="1.6" />
+      <module name="nmp-service" target="1.6" />
+      <module name="nmp-service-interfaces" target="1.6" />
+      <module name="nutz" target="1.6" />
       <module name="summer" target="1.5" />
     </bytecodeTargetLevel>
   </component>

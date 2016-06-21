@@ -4,12 +4,26 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../galaxy/galaxy-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service" />
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../galaxy/galaxy-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../galaxy/galaxy-base/pom.xml" />
+        <option value="$PROJECT_DIR$/../galaxy/galaxy-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/../galaxy/galaxy-brandstart/pom.xml" />
+        <option value="$PROJECT_DIR$/../galaxy/galaxy-web/pom.xml" />
+        <option value="$USER_HOME$/Downloads/nutz-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../asf/trunk/asf/pom.xml" />
+        <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-base/pom.xml" />
+        <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/pom.xml" />
+        <option value="$PROJECT_DIR$/../nmplt/trunk/houfeng/pom.xml" />
       </list>
     </option>
   </component>
@@ -25,5 +39,77 @@
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/../galaxy/galaxy-base">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/galaxy/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../galaxy/galaxy-brandstart">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/galaxy/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../galaxy/galaxy-parent">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/galaxy/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../galaxy/galaxy-platform">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/galaxy/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../galaxy/galaxy-web">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/galaxy/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/galaxy/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>
