@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../asf/trunk/asf/asf.iml" filepath="$PROJECT_DIR$/../asf/trunk/asf/asf.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy-brandstart/galaxy-brandstart.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy-brandstart/galaxy-brandstart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy-parent/galaxy-parent.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy-parent/galaxy-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy-platform/galaxy-platform.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy-platform/galaxy-platform.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../galaxy/galaxy-web/galaxy-web.iml" filepath="$PROJECT_DIR$/../galaxy/galaxy-web/galaxy-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/base/houfeng-base.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/base/houfeng-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/client/houfeng-client.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/client/houfeng-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/houfeng-parent.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/houfeng-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/server/houfeng-server.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/server/houfeng-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/tools/houfeng-tools.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/tools/houfeng-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lego/lego-server/lego_server.iml" filepath="$PROJECT_DIR$/../lego/lego-server/lego_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-base/nmp-base.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-base/nmp-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-client/nmp-client.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-client/nmp-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-mq/nmp-mq.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-mq/nmp-mq.iml" />
@@ -20,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/nmp-service-interfaces.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/nmp-service-interfaces.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/nutz-master/nutz.iml" filepath="$USER_HOME$/Downloads/nutz-master/nutz.iml" />
       <module fileurl="file://$PROJECT_DIR$/summer.iml" filepath="$PROJECT_DIR$/summer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wenda/tools/tools.iml" filepath="$PROJECT_DIR$/../wenda/tools/tools.iml" />
     </modules>
   </component>
 </project>

@@ -1,48 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../galaxy/galaxy-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../GitProjects/aladdin-platform" />
+    <file type="web" url="file://$PROJECT_DIR$/../GitProjects/baidu/brand-qa/cae-monitor" />
+    <file type="web" url="file://$PROJECT_DIR$/../GitProjects/genie-platform" />
+    <file type="web" url="file://$PROJECT_DIR$/../lego/lego-server" />
     <file type="web" url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service" />
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../wenda/tools" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-parent/pom.xml" />
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-base/pom.xml" />
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-platform/pom.xml" />
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-brandstart/pom.xml" />
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-web/pom.xml" />
         <option value="$USER_HOME$/Downloads/nutz-master/pom.xml" />
-        <option value="$PROJECT_DIR$/../asf/trunk/asf/pom.xml" />
         <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-base/pom.xml" />
         <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-mq/pom.xml" />
         <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-service/pom.xml" />
         <option value="$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/pom.xml" />
         <option value="$PROJECT_DIR$/../nmplt/trunk/houfeng/pom.xml" />
+        <option value="$PROJECT_DIR$/../lego/lego-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../wenda/tools/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.7" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SvnBranchConfigurationManager">
     <option name="myConfigurationMap">
       <map>
+        <entry key="$PROJECT_DIR$/../asf/trunk/asf">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://svn.baidu.com/app/ecom/asf/branches" />
+                  <option value="https://svn.baidu.com/app/ecom/asf/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://svn.baidu.com/app/ecom/asf/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../galaxy/galaxy-base">
           <value>
             <SvnBranchConfiguration>
@@ -110,6 +111,5 @@
         </entry>
       </map>
     </option>
-    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>

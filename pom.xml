@@ -135,42 +135,33 @@
 		  <version>2.4</version>
 		  <scope>provided</scope>
 	  </dependency>
+	  <dependency>
+		  <groupId>org.projectlombok</groupId>
+		  <artifactId>lombok</artifactId>
+		  <version>1.16.6</version>
+	  </dependency>
+	  <dependency>
+		  <groupId>org.jsoup</groupId>
+		  <artifactId>jsoup</artifactId>
+		  <version>1.8.3</version>
+	  </dependency>
   </dependencies>
   <repositories>  
   <!-- sun的许可问题，不能加入 javax.transaction:jta:jar包-->
-  <repository>
-			<id>ma</id>
-			<name>ma</name>
-			<url>http://ma-maven-repo.baidu.com:8304/archiva/repository/ma</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>always</updatePolicy>
-				<checksumPolicy>warn</checksumPolicy>
-			</snapshots>
-		</repository>
-		<repository>  
-        <id>java</id>  
-        <name>java official repository</name>  
-        <url>http://download.java.net/maven/2/</url>  
-    </repository> 
-    <repository>
-			<id>nexus-public</id>
-			<name>baidu maven</name>
-			<url>http://maven.scm.baidu.com:8081/nexus/content/groups/public</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>true</enabled>
-			</snapshots>
-		</repository>
      
 </repositories> 
   <build>
     <finalName>summer</finalName>
+	  <plugins>
+		  <plugin>
+			  <groupId>org.apache.maven.plugins</groupId>
+			  <artifactId>maven-compiler-plugin</artifactId>
+			  <configuration>
+				  <source>1.8</source>
+				  <target>1.8</target>
+			  </configuration>
+		  </plugin>
+	  </plugins>
   </build>
   <dependencyManagement>
   	<dependencies>

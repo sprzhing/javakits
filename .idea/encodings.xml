@@ -2,12 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$USER_HOME$/Downloads/nutz-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../GitProjects/aladdin-platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../GitProjects/baidu/brand-qa/cae-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../GitProjects/genie-platform" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../asf/trunk/asf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../galaxy/galaxy-base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../galaxy/galaxy-brandstart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../galaxy/galaxy-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../galaxy/galaxy-platform" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../galaxy/galaxy-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../lego/lego-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/base" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/server" charset="UTF-8" />
@@ -17,9 +21,8 @@
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-mq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../nwd/branches/coeus-cpc/3.0.0_RELEASE_BRANCH" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../nwd/branches/coeus-platform/3.0.0_RELEASE_BRANCH" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/baidu/phoenix/file/SqlBuilderUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../wenda/tools" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
