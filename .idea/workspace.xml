@@ -1,52 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list readonly="true" id="c0115aa3-abdb-4893-ad36-e2b71fd88661" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-brandstart/galaxy-brandstart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-parent/galaxy-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-platform/galaxy-platform.iml" afterDir="false" />
-    </list>
     <list default="true" id="6c5e9732-0399-4fe7-8a30-306fb8315a15" name="cpc" comment="增加aka白名单&#10;             ISSUE=2365017">
       <change afterPath="$PROJECT_DIR$/../asf/trunk/asf/asf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/aladdin_platform_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/aladdin_platform_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bdd_monitor_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/bdd_monitor_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/genie_platform_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/genie_platform_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lego_server_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lego_server_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tools_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/tools_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/AesCBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyyParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyySpider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/FPDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Close.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Macro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Open.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/cmd/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/observer/LandingObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/observer/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/observer/ObserverImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/strategy/CompressImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/strategy/CompressionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/strategy/Compressor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/strategy/GzipCompressionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/fp/designpattern/strategy/ZipCompressionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/PaymentRemoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/bean/ConsultResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/enums/PaymentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/impl/PaymentAsynServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/impl/PaymentReactiveServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/alibaba/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/toutiao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/nmp_service_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/nmp_service_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -198,6 +155,12 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/baidu/laozhu/refactor/StateResultTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baidu/laozhu/refactor/StateResultTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/baidu/phoenix/dao/ContactInfoDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/baidu/phoenix/dao/ContactInfoDaoTest.class" afterDir="false" />
     </list>
+    <list readonly="true" id="c0115aa3-abdb-4893-ad36-e2b71fd88661" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-brandstart/galaxy-brandstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-parent/galaxy-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-platform/galaxy-platform.iml" afterDir="false" />
+    </list>
     <ignored path="summer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -242,35 +205,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="WyyParams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyyParams.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WyySpider.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyySpider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1775">
-              <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/step2/movemethod/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-              <folding>
-                <element signature="e#187#195#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -316,8 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../galaxy/galaxy-brandstart/src/main/java/com/baidu/galaxy/brandstart/service/statistics/impl/MultiThreadUserDataCalculator.java" />
-        <option value="$PROJECT_DIR$/../nwd/branches/coeus-platform/3.0.0_RELEASE_BRANCH/src/main/java/com/baidu/nwd/coeus/platform/common/utils/springmvc/SendEmailExceptionHandler.java" />
         <option value="$PROJECT_DIR$/../nwd/branches/coeus-cpc/3.0.0_RELEASE_BRANCH/src/main/java/com/baidu/nwd/coeus/cpc/task/idea/SendZhidaoAndMolaTask.java" />
         <option value="$PROJECT_DIR$/../nwd/branches/coeus-platform/3.0.0_RELEASE_BRANCH/src/main/java/com/baidu/nwd/coeus/platform/common/utils/BatchUtils.java" />
         <option value="$PROJECT_DIR$/../nwd/branches/coeus-cpc/3.0.0_RELEASE_BRANCH/src/main/resources/aka_skip_url_list.txt" />
@@ -367,6 +304,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyyParams.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyySpider.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/step2/movemethod/Customer.java" />
+        <option value="$PROJECT_DIR$/src/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -485,6 +424,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -492,47 +432,11 @@
               <item name="summer" type="b2602c69:ProjectViewProjectNode" />
               <item name="summer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="summer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="summer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="summer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="summer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="summer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-              <item name="laozhu" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -568,6 +472,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
@@ -586,20 +491,21 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baidu.nwd.coeus.cpc.task.idea" />
+      <recent name="com.baidu.nwd.coeus.platform.common.utils.springmvc" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt" />
       <recent name="$PROJECT_DIR$/../nwd/branches/coeus-platform/3.0.0_RELEASE_BRANCH/src/main/java/com/baidu/nwd/coeus/platform/common/utils" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/aspect" />
       <recent name="$PROJECT_DIR$/src/main/resources/tags" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.baidu.nwd.coeus.cpc.task.idea" />
-      <recent name="com.baidu.nwd.coeus.platform.common.utils.springmvc" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1501,6 +1407,7 @@
       <workItem from="1552904760328" duration="62000" />
       <workItem from="1553848854306" duration="10000" />
       <workItem from="1555585311027" duration="490000" />
+      <workItem from="1557671402772" duration="540000" />
     </task>
     <task id="LOCAL-00001" summary="优化rb&#10;ISSUE=2303201">
       <created>1448535162035</created>
@@ -1539,7 +1446,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="222074000" />
+    <option name="totallyTimeSpent" value="222614000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1552,7 +1459,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1436" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50573885" side_tool="true" weight="0.32916147" />
@@ -1565,17 +1471,15 @@
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.24964131" />
       <window_info id="UI Designer" order="0" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3992095" />
       <window_info anchor="bottom" id="TODO" order="13" weight="0.3299363" />
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.3299363" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.6662404" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4913917" weight="0.24030037" />
       <window_info anchor="bottom" id="Spring" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49426112" weight="0.3286445" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.7659575" visible="true" weight="0.40101156" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49426112" visible="true" weight="0.64705884" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.7659575" visible="true" weight="0.40823698" />
       <window_info anchor="right" id="Bean Validation" order="2" />
       <window_info id="Web" order="2" sideWeight="0.50760454" side_tool="true" weight="0.24964131" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -1584,9 +1488,11 @@
       <window_info anchor="bottom" id="SVN Repositories" order="7" weight="0.66751593" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4913917" weight="0.24030037" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.3055954" weight="0.32738853" />
       <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3992095" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.6381074" />
     </layout>
@@ -1697,11 +1603,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../GitProjects/baidu/brand-qa/cae-monitor/src/filters/preonline.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1263" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../GitProjects/baidu/brand-qa/cae-monitor/src/filters/online-task.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1242" />
@@ -2036,9 +1937,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/step2/movemethod/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/encrypt/WyySpider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1775">
+        <state relative-caret-position="150">
           <caret line="78" column="31" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2046,13 +1954,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/laozhu/step2/movemethod/Customer.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="e#187#195#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
