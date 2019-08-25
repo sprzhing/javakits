@@ -35,6 +35,8 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jteleporter3" level="project" />
+    <orderEntry type="library" name="jteleporter3 (2)" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:3.1.2.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-asm:3.1.2.RELEASE" level="project" />

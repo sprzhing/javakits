@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <app_settings>
+        <!-- This is the UMG Content Site URL. The correct value has been defaulted. Please do not change. -->
+        <content_site_base>https://prod-ucs-gsc.umusic.com/rest</content_site_base>
+<!--    <content_site_base>https://demo-ucs-gsc.umusic.com/rest</content_site_base> -->
+        <!-- Enter your UMG Unified Content Site user name here. -->
+        <user_name>tiktokgsc</user_name>
+        <!-- Enter your UMG Unified Content Site password here. -->
+        <user_password>2kG3%5#9A</user_password>
+        <!--
+          This parameter controls the number of threads to be used for downloading. The maximum number of threads is 15.
+          The recommended number of threads is one thread for each 1 Mbsp connectivity.
+        -->
+        <threads>15</threads>
+        <!--
+          This parameter controls how many times the program will attempt to re-download a file if a download or CRC error occurs.
+          If a file still fails to download after the specified number of retries, it will be skipped by the program.
+          Any order with skipped files will not automatically be marked as received.
+        -->
+        <download_retry_counter>1</download_retry_counter>
+        <!--
+          This parameter specifies how the downloaded files will be grouped into folders.
+          Valid values are "Product" and "AssetType".
+        -->
+        <bundle_by>Product</bundle_by>
+    </app_settings>
+    <delivery_settings>
+        <!-- Order-level parameters (i.e., applies regardless of the value of the bundle_by parameter) -->
+        <delivery_message_root>teleporter/Delivery_Messages</delivery_message_root>
+        <accept_order>false</accept_order>
+        <log_download_checksums>false</log_download_checksums>
+        <!-- Product-level settings (i.e., applies only if bundle_by = Product -->
+        <setting type="ProductBundle">
+            <destination_root>teleporter</destination_root>
+            <use_order_id_in_destination>true</use_order_id_in_destination>
+            <accept_files>false</accept_files>
+            <override_received>false</override_received>
+        </setting>
+        <!-- Asset-level settings (i.e., applies only if bundle_by = AssetType -->
+        <setting type="Audio" download="true">
+            <destination_root>teleporter</destination_root>
+            <use_order_id_in_destination>true</use_order_id_in_destination>
+            <accept_files>false</accept_files>
+            <override_received>false</override_received>
+        </setting>
+        <setting type="Images" download="true">
+            <destination_root>teleporter</destination_root>
+            <use_order_id_in_destination>true</use_order_id_in_destination>
+            <accept_files>false</accept_files>
+            <override_received>false</override_received>
+        </setting>
+        <setting type="Metadata" download="true">
+            <destination_root>teleporter</destination_root>
+            <use_order_id_in_destination>true</use_order_id_in_destination>
+            <accept_files>false</accept_files>
+            <override_received>false</override_received>
+        </setting>
+        <setting type="MetadataSnapshot" download="true">
+            <destination_root>teleporter</destination_root>
+            <use_order_id_in_destination>true</use_order_id_in_destination>
+            <accept_files>false</accept_files>
+            <override_received>true</override_received>
+        </setting>
+        <setting type="Video" download="true">
+           <destination_root>teleporter</destination_root>
+           <use_order_id_in_destination>true</use_order_id_in_destination>
+           <accept_files>false</accept_files>
+           <override_received>false</override_received>
+       </setting >
+    </delivery_settings>
+</configuration>
