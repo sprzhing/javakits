@@ -5,9 +5,9 @@
     <file type="web" url="file://$PROJECT_DIR$/../GitProjects/aladdin-platform" />
     <file type="web" url="file://$PROJECT_DIR$/../GitProjects/baidu/brand-qa/cae-monitor" />
     <file type="web" url="file://$PROJECT_DIR$/../GitProjects/genie-platform" />
+    <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/../lego/lego-server" />
     <file type="web" url="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service" />
-    <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/../wenda/tools" />
   </component>
   <component name="MavenProjectsManager">
@@ -25,7 +25,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="SvnBranchConfigurationManager">

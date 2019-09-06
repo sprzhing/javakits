@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="summer" />
+          <element id="module-output" name="javakits" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-core:3.1.2.RELEASE" />
@@ -147,7 +147,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/summer/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="summer/web/Web" />
+      <element id="javaee-facet-resources" facet="javakits/web/Web" />
     </root>
   </artifact>
 </component>

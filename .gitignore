@@ -1,8 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/
-.settings/
-target/
-src/target/
-summer.iml
-teleporter/
-target/*
+.idea
+.settings
+target
+src/target
+javakits.iml
+teleporter
+.idea/*

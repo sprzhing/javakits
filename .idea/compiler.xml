@@ -28,17 +28,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="houfeng-base" />
-        <module name="houfeng-client" />
         <module name="houfeng-server" />
+        <module name="tools" />
+        <module name="houfeng-client" />
         <module name="houfeng-tools" />
+        <module name="houfeng-base" />
         <module name="lego_server" />
+        <module name="nmp-service-interfaces" />
         <module name="nmp-base" />
         <module name="nmp-mq" />
+        <module name="javakits" />
         <module name="nmp-service" />
-        <module name="nmp-service-interfaces" />
-        <module name="summer" />
-        <module name="tools" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -59,6 +59,7 @@
       <module name="houfeng-parent" target="1.5" />
       <module name="houfeng-server" target="1.8" />
       <module name="houfeng-tools" target="1.8" />
+      <module name="javakits" target="1.8" />
       <module name="lego_server" target="1.6" />
       <module name="nmp-base" target="1.6" />
       <module name="nmp-client" target="1.6" />
@@ -66,7 +67,6 @@
       <module name="nmp-service" target="1.6" />
       <module name="nmp-service-interfaces" target="1.6" />
       <module name="nutz" target="1.6" />
-      <module name="summer" target="1.8" />
       <module name="tools" target="1.6" />
     </bytecodeTargetLevel>
   </component>

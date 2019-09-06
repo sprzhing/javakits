@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/houfeng-parent.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/houfeng-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/server/houfeng-server.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/server/houfeng-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/houfeng/tools/houfeng-tools.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/houfeng/tools/houfeng-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javakits.iml" filepath="$PROJECT_DIR$/javakits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lego/lego-server/lego_server.iml" filepath="$PROJECT_DIR$/../lego/lego-server/lego_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-base/nmp-base.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-base/nmp-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-client/nmp-client.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-client/nmp-client.iml" />
@@ -14,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service/nmp-service.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-service/nmp-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/nmp-service-interfaces.iml" filepath="$PROJECT_DIR$/../nmplt/trunk/nmp-service-interf/nmp-service-interfaces.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/nutz-master/nutz.iml" filepath="$USER_HOME$/Downloads/nutz-master/nutz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/summer.iml" filepath="$PROJECT_DIR$/summer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../wenda/tools/tools.iml" filepath="$PROJECT_DIR$/../wenda/tools/tools.iml" />
     </modules>
   </component>
