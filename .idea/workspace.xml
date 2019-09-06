@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c5e9732-0399-4fe7-8a30-306fb8315a15" name="cpc" comment="增加aka白名单&#10;             ISSUE=2365017">
       <change afterPath="$PROJECT_DIR$/../asf/trunk/asf/asf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/laozhu/lib/jteleporter3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/greedy/GreedyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/umg/InputParamsParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/umg/TelepoterMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/summer_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/summer_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/summer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/summer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baidu/laozhu/step2/movemethod/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baidu/laozhu/step2/movemethod/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/greedy/GreedyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/greedy/GreedyNumber.java" afterDir="false" />
     </list>
     <list id="c0115aa3-abdb-4893-ad36-e2b71fd88661" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" afterDir="false" />
@@ -43,39 +35,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>phoebe_daily_deadlink.py</find>
-      <find>phoebe_daily_deadlink</find>
-      <find>5042</find>
-      <find>mvp</find>
-      <find>ec-answer</find>
-      <find>task_history</find>
-      <find>generate_deadlink_customs</find>
-      <find>init_daily_phoebe_deadlink</find>
-      <find>chenzhenhua</find>
-      <find>get_baike_mysql_result</find>
-      <find>phoebe</find>
-      <find>phoebe.wise</find>
-      <find>mvpMaterialUrl</find>
-      <find>generate_phoebe_data</find>
-      <find>get_phoebe_mysql_result</find>
-      <find>_mysql</find>
-      <find>maven</find>
-      <find>8081</find>
-      <find>execute</find>
-      <find>mainClass</find>
-      <find>MD5Helper</find>
-      <find>contentSiteBase</find>
-      <find>execut</find>
-      <find>executable</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/main/java/com/baidu/laozhu/before/refactor/jteleporter3.jar!/META-INF</dir>
-      <dir>$PROJECT_DIR$/src/main/java/com/baidu/laozhu/lib/jteleporter3.jar!/com</dir>
-      <dir>$PROJECT_DIR$/src/main/java/com/baidu/laozhu/lib</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -97,12 +56,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="23" />
-    <option name="width" value="1916" />
-    <option name="height" value="1036" />
   </component>
   <component name="ProjectId" id="1PuR3BuPVFIfEjXN2zyYv87IuDS" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -766,8 +719,8 @@
       <item itemvalue="Application.WyySpider" />
       <item itemvalue="Application.InputParamsParser" />
       <item itemvalue="Application.TelepoterMain" />
-      <item itemvalue="Tomcat Server.summer" />
       <item itemvalue="Application.GreedyNumber" />
+      <item itemvalue="Tomcat Server.summer" />
     </list>
     <recent_temporary>
       <list>
@@ -942,7 +895,9 @@
       <workItem from="1557737888354" duration="2207000" />
       <workItem from="1558604171656" duration="4750000" />
       <workItem from="1563936650681" duration="1743000" />
-      <workItem from="1566721795908" duration="2503000" />
+      <workItem from="1566721795908" duration="5819000" />
+      <workItem from="1567139543145" duration="944000" />
+      <workItem from="1567685126548" duration="1331000" />
     </task>
     <task id="LOCAL-00001" summary="优化rb&#10;ISSUE=2303201">
       <created>1448535162035</created>
@@ -974,11 +929,6 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="com_baidu_phoenix_alibaba_in_summer - 2018.07.25 at 21h 17m 11s.xml">
-      <configuration name="com.baidu.phoenix.alibaba in summer" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1051,7 +1001,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/baidu/phoenix/greedy/GreedyNumber.java</url>
-          <line>57</line>
+          <line>102</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
