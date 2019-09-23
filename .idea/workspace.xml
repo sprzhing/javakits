@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c5e9732-0399-4fe7-8a30-306fb8315a15" name="cpc" comment="增加aka白名单&#10;             ISSUE=2365017">
       <change afterPath="$PROJECT_DIR$/../asf/trunk/asf/asf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/summer_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/leetcode/ArraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/summer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javakits.iml" afterDir="false" />
     </list>
     <list id="c0115aa3-abdb-4893-ad36-e2b71fd88661" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../galaxy/galaxy-base/galaxy-base.iml" afterDir="false" />
@@ -132,7 +127,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
@@ -168,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GreedyNumber">
+  <component name="RunManager" selected="Application.ArraySum">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -438,6 +432,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baidu.phoenix.leetcode.ArraySum" />
+      <module name="javakits" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.phoenix.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreedyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.baidu.phoenix.greedy.GreedyNumber" />
       <module name="javakits" />
@@ -459,20 +467,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.baidu.phoenix.umg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baidu.phoenix.toutiao.Main" />
-      <module name="javakits" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.baidu.phoenix.toutiao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -720,20 +714,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.WyySpider" />
       <item itemvalue="Application.InputParamsParser" />
       <item itemvalue="Application.TelepoterMain" />
       <item itemvalue="Application.GreedyNumber" />
       <item itemvalue="Tomcat Server.summer" />
+      <item itemvalue="Application.ArraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.GreedyNumber" />
         <item itemvalue="Application.TelepoterMain" />
         <item itemvalue="Application.InputParamsParser" />
         <item itemvalue="Application.WyySpider" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -904,6 +898,9 @@
       <workItem from="1567139543145" duration="944000" />
       <workItem from="1567685126548" duration="1672000" />
       <workItem from="1567742540710" duration="161000" />
+      <workItem from="1567743025811" duration="329000" />
+      <workItem from="1567746478691" duration="388000" />
+      <workItem from="1569220489762" duration="1542000" />
     </task>
     <task id="LOCAL-00001" summary="优化rb&#10;ISSUE=2303201">
       <created>1448535162035</created>
