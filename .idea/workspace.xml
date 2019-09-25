@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c5e9732-0399-4fe7-8a30-306fb8315a15" name="cpc" comment="增加aka白名单&#10;             ISSUE=2365017">
       <change afterPath="$PROJECT_DIR$/../asf/trunk/asf/asf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/leetcode/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/leetcode/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baidu/phoenix/leetcode/ThreeSumOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="c0115aa3-abdb-4893-ad36-e2b71fd88661" name="Default" comment="">
@@ -162,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArraySum">
+  <component name="RunManager" selected="Application.ThreeSum">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -488,13 +489,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WyySpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baidu.laozhu.encrypt.WyySpider" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baidu.phoenix.leetcode.ThreeSum" />
       <module name="javakits" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baidu.laozhu.encrypt.*" />
+          <option name="PATTERN" value="com.baidu.phoenix.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -714,20 +715,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.WyySpider" />
       <item itemvalue="Application.InputParamsParser" />
       <item itemvalue="Application.TelepoterMain" />
       <item itemvalue="Application.GreedyNumber" />
-      <item itemvalue="Tomcat Server.summer" />
       <item itemvalue="Application.ArraySum" />
+      <item itemvalue="Tomcat Server.summer" />
+      <item itemvalue="Application.ThreeSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.GreedyNumber" />
         <item itemvalue="Application.TelepoterMain" />
         <item itemvalue="Application.InputParamsParser" />
-        <item itemvalue="Application.WyySpider" />
       </list>
     </recent_temporary>
   </component>
@@ -900,7 +901,8 @@
       <workItem from="1567742540710" duration="161000" />
       <workItem from="1567743025811" duration="329000" />
       <workItem from="1567746478691" duration="388000" />
-      <workItem from="1569220489762" duration="1542000" />
+      <workItem from="1569220489762" duration="1648000" />
+      <workItem from="1569343167761" duration="801000" />
     </task>
     <task id="LOCAL-00001" summary="优化rb&#10;ISSUE=2303201">
       <created>1448535162035</created>
